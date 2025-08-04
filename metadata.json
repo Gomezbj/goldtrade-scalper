@@ -1,0 +1,6 @@
+{
+  "name": "Goldtrade.AI BETA",
+  "description": "Sube imágenes del gráfico en dos temporalidades diferentes. Nuestra IA analizará los patrones fractales para proporcionar una señal de trading completa con punto de entrada, take profit y stop loss.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
